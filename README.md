@@ -10,7 +10,7 @@ I am currently Learning and practicing to become a frontend web developer.
 * 🖥️  See my portfolio at [Suleiman Osman](http://suleosman.github.io)
 * ✉️  You can contact me at [linkedin.com/in/suleosman10/](mailto:linkedin.com/in/suleosman10/)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on HTML & CSS Projects.
+* 🤝  I'm open to collaborating on HTML, CSS & JavaScript Projects.
 
 ### Skills
 
